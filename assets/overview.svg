@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="400" viewBox="0 0 1080 400" role="img">
+<title>RASPBERRY PI + MMDVM / TIER III — 能力示意，非实机截图</title>
+<rect width="1080" height="400" rx="12" fill="#102731"/>
+<text x="42" y="61" fill="#f5f1e8" font-size="28" font-family="Arial,PingFang SC,sans-serif" font-weight="600">RASPBERRY PI + MMDVM / TIER III</text>
+<text x="42" y="100" fill="#a9c2c7" font-size="19" font-family="PingFang SC,sans-serif">从小型硬件实验平台，到真实终端交互。</text>
+<rect x="42" y="144" width="312" height="168" rx="6" fill="#193742" stroke="#43616b"/>
+<text x="62" y="178" fill="#f1a567" font-size="15" font-family="monospace">01</text>
+<text x="62" y="217" fill="#f5f1e8" font-size="24" font-family="PingFang SC,sans-serif">终端登记</text>
+<text x="62" y="253" fill="#a9c2c7" font-size="18" font-family="PingFang SC,sans-serif">请求 → 处理 → 接受</text>
+<text x="62" y="283" fill="#a9c2c7" font-size="18" font-family="PingFang SC,sans-serif">真实终端接入记录</text>
+<path d="M360 228h15m-5-5 5 5-5 5" fill="none" stroke="#f1a567" stroke-width="2"/>
+<rect x="380" y="144" width="312" height="168" rx="6" fill="#193742" stroke="#43616b"/>
+<text x="400" y="178" fill="#f1a567" font-size="15" font-family="monospace">02</text>
+<text x="400" y="217" fill="#f5f1e8" font-size="24" font-family="PingFang SC,sans-serif">业务授权</text>
+<text x="400" y="253" fill="#a9c2c7" font-size="18" font-family="PingFang SC,sans-serif">组呼请求</text>
+<text x="400" y="283" fill="#a9c2c7" font-size="18" font-family="PingFang SC,sans-serif">业务信道分配</text>
+<path d="M698 228h15m-5-5 5 5-5 5" fill="none" stroke="#f1a567" stroke-width="2"/>
+<rect x="718" y="144" width="312" height="168" rx="6" fill="#193742" stroke="#43616b"/>
+<text x="738" y="178" fill="#f1a567" font-size="15" font-family="monospace">03</text>
+<text x="738" y="217" fill="#f5f1e8" font-size="24" font-family="PingFang SC,sans-serif">语音上行</text>
+<text x="738" y="253" fill="#a9c2c7" font-size="18" font-family="PingFang SC,sans-serif">接收语音头与语音帧</text>
+<text x="738" y="283" fill="#a9c2c7" font-size="18" font-family="PingFang SC,sans-serif">观察结束帧</text>
+<text x="42" y="363" fill="#a9c2c7" font-size="16" font-family="PingFang SC,sans-serif">实验范围示意 · 非内部架构 · 不表示跨站或完整商用能力</text>
+</svg>
