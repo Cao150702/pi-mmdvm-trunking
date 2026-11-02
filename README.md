@@ -1,5 +1,7 @@
 # Raspberry Pi + MMDVM Trunking Lab
 
+[English](README.en.md)
+
 **用树莓派和双工 MMDVM，探索可与真实终端交互的 DMR Tier III 集群站点。**
 
 从一套小型硬件实验平台出发，把终端登记、业务授权和组呼流程实际串起来。这是我持续推进的集群通信实验项目。
